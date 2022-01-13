@@ -1,0 +1,1 @@
+<h2>Hello "<?php echo e($user); ?>"</h2><?php /**PATH /home/shivaaye/Webflow/resources/views/test.blade.php ENDPATH**/ ?>
