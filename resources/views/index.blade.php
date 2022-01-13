@@ -12,6 +12,7 @@
       <div class="row">
           <div class="col">
           <h1>Home Page</h1>
+          <p>Dummy HOmepage setup with laravel </p>
           </div>
       </div>
   </div>
